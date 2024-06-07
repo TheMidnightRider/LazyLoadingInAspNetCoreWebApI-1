@@ -1,0 +1,1 @@
+https://www.c-sharpcorner.com/article/lazy-loading-in-asp-net-core-7-web-api/
